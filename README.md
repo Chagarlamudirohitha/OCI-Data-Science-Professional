@@ -1,4 +1,4 @@
-# OCI-Data-Science-Professional
+# OCI-Data-Science-Professional Course
 OCI Data Science Professional Progress
 
 This repository documents my learning journey through the Oracle Cloud Infrastructure (OCI) Data Science Professional course. The course provides hands-on experience across the entire machine learning lifecycle, including workspace setup, model training, deployment, and MLOps practices, leveraging OCI's suite of services.
